@@ -1,0 +1,8 @@
+<svg width="260" height="72" viewBox="0 0 260 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="260" height="72" rx="18" fill="white"/>
+<path d="M28 42c13-13 32-20 54-21" stroke="#18A7C6" stroke-width="4" stroke-linecap="round"/>
+<path d="M35 48c15-11 33-15 55-13" stroke="#1BAA68" stroke-width="4" stroke-linecap="round"/>
+<path d="M74 18l23 9-22 7-8 17-6-14-14-6 18-4 9-9z" fill="#062E4F"/>
+<text x="108" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#062E4F">MY AIRPORT</text>
+<text x="108" y="51" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#1BAA68">TAXI NI</text>
+</svg>
